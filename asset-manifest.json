@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webmex04-playas/static/css/main.ea8a2833.chunk.css",
-    "main.js": "/webmex04-playas/static/js/main.238c3b0c.chunk.js",
-    "main.js.map": "/webmex04-playas/static/js/main.238c3b0c.chunk.js.map",
+    "main.js": "/webmex04-playas/static/js/main.18aae665.chunk.js",
+    "main.js.map": "/webmex04-playas/static/js/main.18aae665.chunk.js.map",
     "runtime-main.js": "/webmex04-playas/static/js/runtime-main.202377be.js",
     "runtime-main.js.map": "/webmex04-playas/static/js/runtime-main.202377be.js.map",
     "xlsx.js": "/webmex04-playas/static/js/xlsx.81a7b92e.chunk.js",
@@ -16,13 +16,13 @@
     "static/js/6.833335d1.chunk.js": "/webmex04-playas/static/js/6.833335d1.chunk.js",
     "static/js/6.833335d1.chunk.js.map": "/webmex04-playas/static/js/6.833335d1.chunk.js.map",
     "index.html": "/webmex04-playas/index.html",
-    "precache-manifest.0357e4dc21b8e930793c87432ccea286.js": "/webmex04-playas/precache-manifest.0357e4dc21b8e930793c87432ccea286.js",
+    "precache-manifest.b23f29654413fe7a95705fc3b0a5775d.js": "/webmex04-playas/precache-manifest.b23f29654413fe7a95705fc3b0a5775d.js",
     "service-worker.js": "/webmex04-playas/service-worker.js",
     "static/css/main.ea8a2833.chunk.css.map": "/webmex04-playas/static/css/main.ea8a2833.chunk.css.map",
     "static/js/3.adec64d4.chunk.js.LICENSE.txt": "/webmex04-playas/static/js/3.adec64d4.chunk.js.LICENSE.txt",
     "static/js/5.4451764b.chunk.js.LICENSE.txt": "/webmex04-playas/static/js/5.4451764b.chunk.js.LICENSE.txt",
     "static/js/6.833335d1.chunk.js.LICENSE.txt": "/webmex04-playas/static/js/6.833335d1.chunk.js.LICENSE.txt",
-    "static/js/main.238c3b0c.chunk.js.LICENSE.txt": "/webmex04-playas/static/js/main.238c3b0c.chunk.js.LICENSE.txt",
+    "static/js/main.18aae665.chunk.js.LICENSE.txt": "/webmex04-playas/static/js/main.18aae665.chunk.js.LICENSE.txt",
     "static/media/ayo-ogunseinde-2.jpg": "/webmex04-playas/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/webmex04-playas/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
     "static/media/clem-onojeghuo-3.jpg": "/webmex04-playas/static/media/clem-onojeghuo-3.ae11d928.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.202377be.js",
     "static/js/3.adec64d4.chunk.js",
     "static/css/main.ea8a2833.chunk.css",
-    "static/js/main.238c3b0c.chunk.js"
+    "static/js/main.18aae665.chunk.js"
   ]
 }

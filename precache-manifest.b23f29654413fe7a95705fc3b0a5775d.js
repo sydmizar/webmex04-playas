@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "165b480516206ffd2760dbf12750e780",
+    "revision": "ad4b825a28e518efe0daa8515be3f2e0",
     "url": "/webmex04-playas/index.html"
   },
   {
-    "revision": "5304ed1f634d9ee1566e",
+    "revision": "2fdeee26b43f80fa71b0",
     "url": "/webmex04-playas/static/css/main.ea8a2833.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webmex04-playas/static/js/6.833335d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5304ed1f634d9ee1566e",
-    "url": "/webmex04-playas/static/js/main.238c3b0c.chunk.js"
+    "revision": "2fdeee26b43f80fa71b0",
+    "url": "/webmex04-playas/static/js/main.18aae665.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/webmex04-playas/static/js/main.238c3b0c.chunk.js.LICENSE.txt"
+    "url": "/webmex04-playas/static/js/main.18aae665.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4879f151af1a66639ae5",
